@@ -1,0 +1,18 @@
+min and max in sql
+-----------------------------
+The min() function returns the smallest value of the selected column.
+
+The max() function returns the larges value of the selected column.
+
+usage:
+
+select min(column_name) from table_name;
+
+count()
+-----------------------------
+
+The count() function returns the number of rows that matches the certain condition if there no condition it returns the number of rows.
+
+avg() -> returns the average for the column
+
+sum() -> returns the sum for the column
