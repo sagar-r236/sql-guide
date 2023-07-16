@@ -1,0 +1,5 @@
+The in operator is used to specifiy multiple value in where clause for a column.
+
+select * from table where column in (value1, value2, value3);
+
+
