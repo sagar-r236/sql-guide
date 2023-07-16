@@ -1,0 +1,3 @@
+Like operator is used to search for a specific pattern in a column.
+
+syntax : select column1, column2 from table where column like pattern
